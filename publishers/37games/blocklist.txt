@@ -1,0 +1,12 @@
+# 37Games - Game Infrastructure Domains
+# Covers: Puzzles & Survival, Ant Legion, Fusion Crush
+
+*.37games.com
+*.cdn.37games.com
+*.api.37games.com
+*.assets.37games.com
+*.static.37games.com
+*.pns.37games.com
+*.antlegion.37games.com
+*.fusioncrush.37games.com
+*.patch.37games.com

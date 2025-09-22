@@ -1,0 +1,19 @@
+# Tencent - Game Infrastructure Domains
+# Covers: Honor of Kings, PUBG Mobile, Arena Breakout, Alchemy Stars, Chess Rush
+
+*.tencent.com
+*.cdn.tencent.com
+*.api.tencent.com
+*.static.tencent.com
+*.assets.tencent.com
+*.igame.qq.com
+*.cdn.qq.com
+*.api.qq.com
+*.static.qq.com
+*.game.qq.com
+*.pg.qq.com
+*.codm.qq.com
+*.hok.qq.com
+*.pubgm.qq.com
+*.ab.qq.com
+*.as.qq.com

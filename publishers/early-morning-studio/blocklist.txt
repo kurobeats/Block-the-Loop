@@ -1,0 +1,10 @@
+# Early Morning Studio - Game Infrastructure Domains
+# Covers: Vampire’s Fall: Origins, Vampire’s Fall 2, Champions of Avan, Vendir: Plague of Lies, Sol Frontiers
+
+*.earlymorningstudio.com
+*.vampiresfall.com
+*.cdn.vampiresfall.com
+*.api.vampiresfall.com
+*.cdn.earlymorningstudio.com
+*.api.earlymorningstudio.com
+*.static.earlymorningstudio.com

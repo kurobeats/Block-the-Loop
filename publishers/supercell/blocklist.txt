@@ -1,0 +1,13 @@
+# Supercell - Game Infrastructure Domains
+# Covers: Clash Royale, Clash of Clans, Brawl Stars, Boom Beach, Hay Day
+
+*.supercell.com
+*.cdn.supercell.com
+*.api.supercell.com
+*.assets.supercell.com
+*.static.supercell.com
+*.clashroyale.supercell.com
+*.clashofclans.supercell.com
+*.brawlstars.supercell.com
+*.boombeach.supercell.com
+*.hayday.supercell.com

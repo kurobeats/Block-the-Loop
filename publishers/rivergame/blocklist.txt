@@ -1,0 +1,10 @@
+# Rivergame - Game Infrastructure Domains
+# Covers: Top War: Battle Game
+
+*.rivergame.net
+*.cdn.rivergame.net
+*.api.rivergame.net
+*.assets.rivergame.net
+*.static.rivergame.net
+*.topwar.rivergame.net
+*.patch.rivergame.net

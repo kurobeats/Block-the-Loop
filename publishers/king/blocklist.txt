@@ -1,0 +1,12 @@
+# King - Game Infrastructure Domains
+# Covers: Candy Crush Saga, Farm Heroes Saga, Bubble Witch Saga, Pet Rescue Saga
+
+*.king.com
+*.cdn.king.com
+*.api.king.com
+*.assets.king.com
+*.static.king.com
+*.candycrush.king.com
+*.farmheroes.king.com
+*.bubblewitch.king.com
+*.petrescue.king.com

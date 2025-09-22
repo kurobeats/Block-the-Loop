@@ -1,0 +1,9 @@
+# Century Games - Game Infrastructure Domains
+# Covers: Whiteout Survival, Frozen City, Valor Legends, Dragonscapes, Idle Mafia
+
+*.centurygame.com
+*.centurygames.com
+*.cdn.centurygame.com
+*.api.centurygame.com
+*.static.centurygame.com
+*.assets.centurygame.com

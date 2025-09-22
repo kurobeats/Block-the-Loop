@@ -1,0 +1,9 @@
+# Dream Games - Game Infrastructure Domains
+# Covers: Royal Match
+
+*.dreamgames.com
+*.cdn.dreamgames.com
+*.api.dreamgames.com
+*.assets.dreamgames.com
+*.static.dreamgames.com
+*.royalmatch.dreamgames.com

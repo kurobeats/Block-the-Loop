@@ -1,0 +1,8 @@
+# DarkGames Studio - Game Infrastructure Domains
+# Covers: Darkest AFK, Darkest Idle, Dungeon Lords (if applicable)
+
+*.darkgames.studio
+*.cdn.darkgames.studio
+*.api.darkgames.studio
+*.static.darkgames.studio
+*.assets.darkgames.studio

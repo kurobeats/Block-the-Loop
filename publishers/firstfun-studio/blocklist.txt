@@ -1,0 +1,11 @@
+# FirstFun Studio - Game Infrastructure Domains
+# Covers: Last War: Survival, Last Fortress: Underground, Last War: Shelter Heroes
+
+*.firstfun.com
+*.firstfunstudio.com
+*.cdn.firstfun.com
+*.cdn.firstfunstudio.com
+*.api.firstfun.com
+*.api.firstfunstudio.com
+*.static.firstfun.com
+*.static.firstfunstudio.com

@@ -1,0 +1,20 @@
+# Roblox Corporation - Platform Infrastructure Domains
+# Covers: Roblox client, studio, web APIs, CDN, telemetry
+
+*.roblox.com
+*.rbxcdn.com
+*.rbxinfra.net
+*.rbxtrk.com
+*.roblox.net
+*.roblox.us
+*.roblox.co.uk
+*.api.roblox.com
+*.cdn.rbxcdn.com
+*.static.rbxcdn.com
+*.games.roblox.com
+*.economy.roblox.com
+*.friends.roblox.com
+*.presence.roblox.com
+*.avatar.roblox.com
+*.chat.roblox.com
+*.billing.roblox.com

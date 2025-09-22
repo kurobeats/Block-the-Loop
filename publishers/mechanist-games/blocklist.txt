@@ -1,0 +1,10 @@
+# Mechanist Games - Global Game Domains
+# Covers: Game of Khans, Game of Sultans, Heroes of Skyrealm, War Clash, Dreamland Masters
+
+*.mechanist.co
+*.mechanist.com
+*.api.mechanist.co
+*.cdn.mechanist.co
+*.cdn.mechanist.com
+*.static.mechanist.co
+*.static.mechanist.com

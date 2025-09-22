@@ -1,0 +1,13 @@
+# Garena - Game Infrastructure Domains
+# Covers: Free Fire, Speed Drifters, Arena of Valor, Call of Duty Mobile (Garena version)
+
+*.garena.com
+*.cdn.garena.com
+*.api.garena.com
+*.assets.garena.com
+*.static.garena.com
+*.ff.garena.com
+*.codm.garena.com
+*.aov.garena.com
+*.speeddrifters.garena.com
+*.patch.garena.com

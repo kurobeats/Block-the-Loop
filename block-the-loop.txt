@@ -1,0 +1,234 @@
+# Allstar Union / StarFortune - Game Infrastructure Domains
+# Covers: Nations of Darkness, Idle Mythos, Idle Survivors
+*.allstarunion.com
+*.starfortune.games
+*.cdn.allstarunion.com
+*.cdn.starfortune.games
+*.api.allstarunion.com
+*.api.starfortune.games
+*.static-sites.allstarunion.com
+*.static.starfortune.gamespublishers
+
+# Mechanist Games - Global Game Domains
+# Covers: Game of Khans, Game of Sultans, Heroes of Skyrealm, War Clash, Dreamland Masters
+*.mechanist.co
+*.mechanist.com
+*.api.mechanist.co
+*.cdn.mechanist.co
+*.cdn.mechanist.com
+*.static.mechanist.co
+*.static.mechanist.com
+
+# Early Morning Studio - Game Infrastructure Domains
+# Covers: Vampire’s Fall: Origins, Vampire’s Fall 2, Champions of Avan, Vendir: Plague of Lies, Sol Frontiers
+*.earlymorningstudio.com
+*.vampiresfall.com
+*.cdn.vampiresfall.com
+*.api.vampiresfall.com
+*.cdn.earlymorningstudio.com
+*.api.earlymorningstudio.com
+*.static.earlymorningstudio.com
+
+# Century Games - Game Infrastructure Domains
+# Covers: Whiteout Survival, Frozen City, Valor Legends, Dragonscapes, Idle Mafia
+*.centurygame.com
+*.centurygames.com
+*.cdn.centurygame.com
+*.api.centurygame.com
+*.static.centurygame.com
+*.assets.centurygame.com
+
+# FirstFun Studio - Game Infrastructure Domains
+# Covers: Last War: Survival, Last Fortress: Underground, Last War: Shelter Heroes
+*.firstfun.com
+*.firstfunstudio.com
+*.cdn.firstfun.com
+*.cdn.firstfunstudio.com
+*.api.firstfun.com
+*.api.firstfunstudio.com
+*.static.firstfun.com
+*.static.firstfunstudio.com
+
+# Nexters - Game Infrastructure Domains
+# Covers: Hero Wars, Throne Rush, Island Questaway
+*.nexters.com
+*.cdn.nexters.com
+*.api.nexters.com
+*.assets.nexters.com
+*.static.nexters.com
+
+# DarkGames Studio - Game Infrastructure Domains
+# Covers: Darkest AFK, Darkest Idle, Dungeon Lords (if applicable)
+*.darkgames.studio
+*.cdn.darkgames.studio
+*.api.darkgames.studio
+*.static.darkgames.studio
+*.assets.darkgames.studio
+
+# TOJOY Game - Game Infrastructure Domains
+# Covers: Magic Hero War, Magic Revenge, Zombieland: Doomsday Survival, Red Dragon Legend-Hunger Chest
+*.tojoygame.com
+*.cdn.tojoygame.com
+*.api.tojoygame.com
+*.assets.tojoygame.com
+*.static.tojoygame.com
+
+# Lilith Games - Game Infrastructure Domains
+# Covers: AFK Arena, Rise of Kingdoms, Warpath, Dislyte, Call of Dragons
+*.lilithgames.com
+*.cdn.lilithgames.com
+*.api.lilithgames.com
+*.assets.lilithgames.com
+*.static.lilithgames.com
+*.rok.lilithgames.com
+*.afk.lilithgames.com
+*.warpath.lilithgames.com
+*.dislyte.lilithgames.com
+*.cod.lilithgames.com
+
+# Tencent - Game Infrastructure Domains
+# Covers: Honor of Kings, PUBG Mobile, Arena Breakout, Alchemy Stars, Chess Rush
+*.tencent.com
+*.cdn.tencent.com
+*.api.tencent.com
+*.static.tencent.com
+*.assets.tencent.com
+*.igame.qq.com
+*.cdn.qq.com
+*.api.qq.com
+*.static.qq.com
+*.game.qq.com
+*.pg.qq.com
+*.codm.qq.com
+*.hok.qq.com
+*.pubgm.qq.com
+*.ab.qq.com
+*.as.qq.com
+
+# Dream Games - Game Infrastructure Domains
+# Covers: Royal Match
+*.dreamgames.com
+*.cdn.dreamgames.com
+*.api.dreamgames.com
+*.assets.dreamgames.com
+*.static.dreamgames.com
+*.royalmatch.dreamgames.com
+
+# King - Game Infrastructure Domains
+# Covers: Candy Crush Saga, Farm Heroes Saga, Bubble Witch Saga, Pet Rescue Saga
+*.king.com
+*.cdn.king.com
+*.api.king.com
+*.assets.king.com
+*.static.king.com
+*.candycrush.king.com
+*.farmheroes.king.com
+*.bubblewitch.king.com
+*.petrescue.king.com
+
+# Roblox Corporation - Platform Infrastructure Domains
+# Covers: Roblox client, studio, web APIs, CDN, telemetry
+*.roblox.com
+*.rbxcdn.com
+*.rbxinfra.net
+*.rbxtrk.com
+*.roblox.net
+*.roblox.us
+*.roblox.co.uk
+*.api.roblox.com
+*.cdn.rbxcdn.com
+*.static.rbxcdn.com
+*.games.roblox.com
+*.economy.roblox.com
+*.friends.roblox.com
+*.presence.roblox.com
+*.avatar.roblox.com
+*.chat.roblox.com
+*.billing.roblox.com
+
+# Garena - Game Infrastructure Domains
+# Covers: Free Fire, Speed Drifters, Arena of Valor, Call of Duty Mobile (Garena version)
+*.garena.com
+*.cdn.garena.com
+*.api.garena.com
+*.assets.garena.com
+*.static.garena.com
+*.ff.garena.com
+*.codm.garena.com
+*.aov.garena.com
+*.speeddrifters.garena.com
+*.patch.garena.com
+
+# Supercell - Game Infrastructure Domains
+# Covers: Clash Royale, Clash of Clans, Brawl Stars, Boom Beach, Hay Day
+*.supercell.com
+*.cdn.supercell.com
+*.api.supercell.com
+*.assets.supercell.com
+*.static.supercell.com
+*.clashroyale.supercell.com
+*.clashofclans.supercell.com
+*.brawlstars.supercell.com
+*.boombeach.supercell.com
+*.hayday.supercell.com
+
+# FunPlus - Game Infrastructure Domains
+# Covers: State of Survival, King of Avalon, Guns of Glory, Stormshot
+*.funplus.com
+*.cdn.funplus.com
+*.api.funplus.com
+*.assets.funplus.com
+*.static.funplus.com
+*.stateofsurvival.funplus.com
+*.kingofavalon.funplus.com
+*.gunsofglory.funplus.com
+*.stormshot.funplus.com
+*.patch.funplus.com
+
+# Camel Games - Game Infrastructure Domains
+# Covers: Age of Origins, War and Order, Titan Siege
+*.camelgame.com
+*.cdn.camelgame.com
+*.api.camelgame.com
+*.assets.camelgame.com
+*.static.camelgame.com
+*.ageoforigins.camelgame.com
+*.warandorder.camelgame.com
+*.titansiege.camelgame.com
+*.patch.camelgame.com
+
+# 37Games - Game Infrastructure Domains
+# Covers: Puzzles & Survival, Ant Legion, Fusion Crush
+*.37games.com
+*.cdn.37games.com
+*.api.37games.com
+*.assets.37games.com
+*.static.37games.com
+*.pns.37games.com
+*.antlegion.37games.com
+*.fusioncrush.37games.com
+*.patch.37games.com
+
+# IGG - Game Infrastructure Domains
+# Covers: Doomsday: Last Survivors, Lords Mobile, Castle Clash, Clash of Lords
+*.igg.com
+*.cdn.igg.com
+*.api.igg.com
+*.assets.igg.com
+*.static.igg.com
+*.doomsday.igg.com
+*.lordsmobile.igg.com
+*.castleclash.igg.com
+*.clashoflords.igg.com
+*.patch.igg.com
+
+# Rivergame - Game Infrastructure Domains
+# Covers: Top War: Battle Game
+*.rivergame.net
+*.cdn.rivergame.net
+*.api.rivergame.net
+*.assets.rivergame.net
+*.static.rivergame.net
+*.topwar.rivergame.net
+*.patch.rivergame.net
+

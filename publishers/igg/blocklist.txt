@@ -1,0 +1,13 @@
+# IGG - Game Infrastructure Domains
+# Covers: Doomsday: Last Survivors, Lords Mobile, Castle Clash, Clash of Lords
+
+*.igg.com
+*.cdn.igg.com
+*.api.igg.com
+*.assets.igg.com
+*.static.igg.com
+*.doomsday.igg.com
+*.lordsmobile.igg.com
+*.castleclash.igg.com
+*.clashoflords.igg.com
+*.patch.igg.com

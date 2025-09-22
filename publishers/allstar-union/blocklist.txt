@@ -1,0 +1,11 @@
+# Allstar Union / StarFortune - Game Infrastructure Domains
+# Covers: Nations of Darkness, Idle Mythos, Idle Survivors
+
+*.allstarunion.com
+*.starfortune.games
+*.cdn.allstarunion.com
+*.cdn.starfortune.games
+*.api.allstarunion.com
+*.api.starfortune.games
+*.static-sites.allstarunion.com
+*.static.starfortune.gamespublishers

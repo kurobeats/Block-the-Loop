@@ -1,0 +1,12 @@
+# Camel Games - Game Infrastructure Domains
+# Covers: Age of Origins, War and Order, Titan Siege
+
+*.camelgame.com
+*.cdn.camelgame.com
+*.api.camelgame.com
+*.assets.camelgame.com
+*.static.camelgame.com
+*.ageoforigins.camelgame.com
+*.warandorder.camelgame.com
+*.titansiege.camelgame.com
+*.patch.camelgame.com

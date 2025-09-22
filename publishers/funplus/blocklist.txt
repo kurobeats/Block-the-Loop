@@ -1,0 +1,13 @@
+# FunPlus - Game Infrastructure Domains
+# Covers: State of Survival, King of Avalon, Guns of Glory, Stormshot
+
+*.funplus.com
+*.cdn.funplus.com
+*.api.funplus.com
+*.assets.funplus.com
+*.static.funplus.com
+*.stateofsurvival.funplus.com
+*.kingofavalon.funplus.com
+*.gunsofglory.funplus.com
+*.stormshot.funplus.com
+*.patch.funplus.com

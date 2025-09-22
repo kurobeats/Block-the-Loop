@@ -1,0 +1,177 @@
+{
+  "allstar-union": {
+    "covers": [
+      "Nations of Darkness",
+      "Idle Mythos",
+      "Idle Survivors"
+    ],
+    "file": "publishers/allstar-union/blocklist.txt"
+  },
+  "mechanist-games": {
+    "covers": [
+      "Game of Khans",
+      "Game of Sultans",
+      "Heroes of Skyrealm",
+      "War Clash",
+      "Dreamland Masters"
+    ],
+    "file": "publishers/mechanist-games/blocklist.txt"
+  },
+  "early-morning-studio": {
+    "covers": [
+      "Vampire\u2019s Fall: Origins",
+      "Vampire\u2019s Fall 2",
+      "Champions of Avan",
+      "Vendir: Plague of Lies",
+      "Sol Frontiers"
+    ],
+    "file": "publishers/early-morning-studio/blocklist.txt"
+  },
+  "century-games": {
+    "covers": [
+      "Whiteout Survival",
+      "Frozen City",
+      "Valor Legends",
+      "Dragonscapes",
+      "Idle Mafia"
+    ],
+    "file": "publishers/century-games/blocklist.txt"
+  },
+  "firstfun-studio": {
+    "covers": [
+      "Last War: Survival",
+      "Last Fortress: Underground",
+      "Last War: Shelter Heroes"
+    ],
+    "file": "publishers/firstfun-studio/blocklist.txt"
+  },
+  "nexters": {
+    "covers": [
+      "Hero Wars",
+      "Throne Rush",
+      "Island Questaway"
+    ],
+    "file": "publishers/nexters/blocklist.txt"
+  },
+  "darkgames-studio": {
+    "covers": [
+      "Darkest AFK",
+      "Darkest Idle",
+      "Dungeon Lords (if applicable)"
+    ],
+    "file": "publishers/darkgames-studio/blocklist.txt"
+  },
+  "tojoy-game": {
+    "covers": [
+      "Magic Hero War",
+      "Magic Revenge",
+      "Zombieland: Doomsday Survival",
+      "Red Dragon Legend-Hunger Chest"
+    ],
+    "file": "publishers/tojoy-game/blocklist.txt"
+  },
+  "lilith-games": {
+    "covers": [
+      "AFK Arena",
+      "Rise of Kingdoms",
+      "Warpath",
+      "Dislyte",
+      "Call of Dragons"
+    ],
+    "file": "publishers/lilith-games/blocklist.txt"
+  },
+  "tencent": {
+    "covers": [
+      "Honor of Kings",
+      "PUBG Mobile",
+      "Arena Breakout",
+      "Alchemy Stars",
+      "Chess Rush"
+    ],
+    "file": "publishers/tencent/blocklist.txt"
+  },
+  "dream-games": {
+    "covers": [
+      "Royal Match"
+    ],
+    "file": "publishers/dream-games/blocklist.txt"
+  },
+  "king": {
+    "covers": [
+      "Candy Crush Saga",
+      "Farm Heroes Saga",
+      "Bubble Witch Saga",
+      "Pet Rescue Saga"
+    ],
+    "file": "publishers/king/blocklist.txt"
+  },
+  "roblox-corporation": {
+    "covers": [
+      "Roblox client",
+      "studio",
+      "web APIs",
+      "CDN",
+      "telemetry"
+    ],
+    "file": "publishers/roblox-corporation/blocklist.txt"
+  },
+  "garena": {
+    "covers": [
+      "Free Fire",
+      "Speed Drifters",
+      "Arena of Valor",
+      "Call of Duty Mobile (Garena version)"
+    ],
+    "file": "publishers/garena/blocklist.txt"
+  },
+  "supercell": {
+    "covers": [
+      "Clash Royale",
+      "Clash of Clans",
+      "Brawl Stars",
+      "Boom Beach",
+      "Hay Day"
+    ],
+    "file": "publishers/supercell/blocklist.txt"
+  },
+  "funplus": {
+    "covers": [
+      "State of Survival",
+      "King of Avalon",
+      "Guns of Glory",
+      "Stormshot"
+    ],
+    "file": "publishers/funplus/blocklist.txt"
+  },
+  "camel-games": {
+    "covers": [
+      "Age of Origins",
+      "War and Order",
+      "Titan Siege"
+    ],
+    "file": "publishers/camel-games/blocklist.txt"
+  },
+  "37games": {
+    "covers": [
+      "Puzzles & Survival",
+      "Ant Legion",
+      "Fusion Crush"
+    ],
+    "file": "publishers/37games/blocklist.txt"
+  },
+  "igg": {
+    "covers": [
+      "Doomsday: Last Survivors",
+      "Lords Mobile",
+      "Castle Clash",
+      "Clash of Lords"
+    ],
+    "file": "publishers/igg/blocklist.txt"
+  },
+  "rivergame": {
+    "covers": [
+      "Top War: Battle Game"
+    ],
+    "file": "publishers/rivergame/blocklist.txt"
+  }
+}

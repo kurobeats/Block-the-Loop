@@ -1,0 +1,8 @@
+# TOJOY Game - Game Infrastructure Domains
+# Covers: Magic Hero War, Magic Revenge, Zombieland: Doomsday Survival, Red Dragon Legend-Hunger Chest
+
+*.tojoygame.com
+*.cdn.tojoygame.com
+*.api.tojoygame.com
+*.assets.tojoygame.com
+*.static.tojoygame.com

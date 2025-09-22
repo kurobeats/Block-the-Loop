@@ -1,0 +1,13 @@
+# Lilith Games - Game Infrastructure Domains
+# Covers: AFK Arena, Rise of Kingdoms, Warpath, Dislyte, Call of Dragons
+
+*.lilithgames.com
+*.cdn.lilithgames.com
+*.api.lilithgames.com
+*.assets.lilithgames.com
+*.static.lilithgames.com
+*.rok.lilithgames.com
+*.afk.lilithgames.com
+*.warpath.lilithgames.com
+*.dislyte.lilithgames.com
+*.cod.lilithgames.com

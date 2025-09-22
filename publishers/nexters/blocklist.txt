@@ -1,0 +1,8 @@
+# Nexters - Game Infrastructure Domains
+# Covers: Hero Wars, Throne Rush, Island Questaway
+
+*.nexters.com
+*.cdn.nexters.com
+*.api.nexters.com
+*.assets.nexters.com
+*.static.nexters.com
