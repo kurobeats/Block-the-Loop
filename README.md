@@ -24,6 +24,14 @@ If you or someone close to you is struggling with mobile game addiction, please 
 
 Technical intervention can interrupt harmful patterns. But healing takes time, support, and self-compassion.
 
+## 📝 Statistics
+
+Publishers: 20
+
+Games Covered: 69
+
+Domains Blocked (by wildcard): 174
+
 ## 🧱 Structure
 
 - `publishers/` - Organized by game publisher (e.g. Lilith Games, FunPlus, King)
@@ -35,6 +43,6 @@ Technical intervention can interrupt harmful patterns. But healing takes time, s
 
 This repo does not block ads, trackers, or third-party integrations. It focuses strictly on game infrastructure. Blocking may break login, updates, or gameplay. Use with care and test per title.
 
-## Contributing
+## ⚙️ Contributing
 
 Pull requests are MOST welcome!
