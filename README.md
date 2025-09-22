@@ -46,3 +46,5 @@ This repo does not block ads, trackers, or third-party integrations. It focuses 
 ## ⚙️ Contributing
 
 Pull requests are MOST welcome!
+
+Don't know how to contribute but want a publisher or game added? Create an Issue and I'll add it.
