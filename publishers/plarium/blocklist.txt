@@ -1,0 +1,13 @@
+# Plarium - Game Infrastructure Domains
+# Covers: Raid: Shadow Legends, Vikings: War of Clans, Mech Arena, Throne: Kingdom at War
+
+*.plarium.com
+*.cdn.plarium.com
+*.api.plarium.com
+*.assets.plarium.com
+*.static.plarium.com
+*.raid.plarium.com
+*.vikings.plarium.com
+*.mecharena.plarium.com
+*.throne.plarium.com
+*.patch.plarium.com

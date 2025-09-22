@@ -1,0 +1,13 @@
+# Tap4Fun - Game Infrastructure Domains
+# Covers: Invasion, Brutal Age, Sea Fortress, Galaxy Legend
+
+*.tap4fun.com
+*.cdn.tap4fun.com
+*.api.tap4fun.com
+*.assets.tap4fun.com
+*.static.tap4fun.com
+*.invasion.tap4fun.com
+*.brutalage.tap4fun.com
+*.seafortress.tap4fun.com
+*.galaxylegend.tap4fun.com
+*.patch.tap4fun.com

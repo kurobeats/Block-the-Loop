@@ -1,0 +1,13 @@
+# Yotta Games - Game Infrastructure Domains
+# Covers: Mafia City, The Grand Mafia, Chief Almighty, Elite Mafia
+
+*.yottagames.com
+*.cdn.yottagames.com
+*.api.yottagames.com
+*.assets.yottagames.com
+*.static.yottagames.com
+*.mafiacity.yottagames.com
+*.grandmafia.yottagames.com
+*.chiefalmighty.yottagames.com
+*.elitemafia.yottagames.com
+*.patch.yottagames.com

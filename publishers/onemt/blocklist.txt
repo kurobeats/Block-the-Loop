@@ -1,0 +1,13 @@
+# ONEMT - Game Infrastructure Domains
+# Covers: Revenge of Sultans, King’s Choice, Royal Revolt, War of Destiny
+
+*.onemt.com
+*.cdn.onemt.com
+*.api.onemt.com
+*.assets.onemt.com
+*.static.onemt.com
+*.revengeofsultans.onemt.com
+*.kingschoice.onemt.com
+*.royalrevolt.onemt.com
+*.warofdestiny.onemt.com
+*.patch.onemt.com

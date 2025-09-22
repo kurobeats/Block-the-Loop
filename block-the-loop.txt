@@ -232,3 +232,80 @@
 *.topwar.rivergame.net
 *.patch.rivergame.net
 
+# ONEMT - Game Infrastructure Domains
+# Covers: Revenge of Sultans, King’s Choice, Royal Revolt, War of Destiny
+*.onemt.com
+*.cdn.onemt.com
+*.api.onemt.com
+*.assets.onemt.com
+*.static.onemt.com
+*.revengeofsultans.onemt.com
+*.kingschoice.onemt.com
+*.royalrevolt.onemt.com
+*.warofdestiny.onemt.com
+*.patch.onemt.com
+
+# Elex Wireless - Game Infrastructure Domains
+# Covers: Clash of Kings, Magic Rush: Heroes, Total War: Empire, Age of Warring Empire
+*.elex-tech.com
+*.cdn.elex-tech.com
+*.api.elex-tech.com
+*.assets.elex-tech.com
+*.static.elex-tech.com
+*.clashofkings.elex-tech.com
+*.magicrush.elex-tech.com
+*.totalwar.elex-tech.com
+*.ageofwarringempire.elex-tech.com
+*.patch.elex-tech.com
+
+# SkyRise Digital - Game Infrastructure Domains
+# Covers: Game of Vampires, Game of Warriors, Game of Khans
+*.skyrise.digital
+*.cdn.skyrise.digital
+*.api.skyrise.digital
+*.assets.skyrise.digital
+*.static.skyrise.digital
+*.gameofvampires.skyrise.digital
+*.gameofwarriors.skyrise.digital
+*.gameofkhans.skyrise.digital
+*.patch.skyrise.digital
+
+# Tap4Fun - Game Infrastructure Domains
+# Covers: Invasion, Brutal Age, Sea Fortress, Galaxy Legend
+*.tap4fun.com
+*.cdn.tap4fun.com
+*.api.tap4fun.com
+*.assets.tap4fun.com
+*.static.tap4fun.com
+*.invasion.tap4fun.com
+*.brutalage.tap4fun.com
+*.seafortress.tap4fun.com
+*.galaxylegend.tap4fun.com
+*.patch.tap4fun.com
+
+# Plarium - Game Infrastructure Domains
+# Covers: Raid: Shadow Legends, Vikings: War of Clans, Mech Arena, Throne: Kingdom at War
+*.plarium.com
+*.cdn.plarium.com
+*.api.plarium.com
+*.assets.plarium.com
+*.static.plarium.com
+*.raid.plarium.com
+*.vikings.plarium.com
+*.mecharena.plarium.com
+*.throne.plarium.com
+*.patch.plarium.com
+
+# Yotta Games - Game Infrastructure Domains
+# Covers: Mafia City, The Grand Mafia, Chief Almighty, Elite Mafia
+*.yottagames.com
+*.cdn.yottagames.com
+*.api.yottagames.com
+*.assets.yottagames.com
+*.static.yottagames.com
+*.mafiacity.yottagames.com
+*.grandmafia.yottagames.com
+*.chiefalmighty.yottagames.com
+*.elitemafia.yottagames.com
+*.patch.yottagames.com
+

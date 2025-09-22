@@ -1,0 +1,12 @@
+# SkyRise Digital - Game Infrastructure Domains
+# Covers: Game of Vampires, Game of Warriors, Game of Khans
+
+*.skyrise.digital
+*.cdn.skyrise.digital
+*.api.skyrise.digital
+*.assets.skyrise.digital
+*.static.skyrise.digital
+*.gameofvampires.skyrise.digital
+*.gameofwarriors.skyrise.digital
+*.gameofkhans.skyrise.digital
+*.patch.skyrise.digital

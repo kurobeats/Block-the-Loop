@@ -1,0 +1,13 @@
+# Elex Wireless - Game Infrastructure Domains
+# Covers: Clash of Kings, Magic Rush: Heroes, Total War: Empire, Age of Warring Empire
+
+*.elex-tech.com
+*.cdn.elex-tech.com
+*.api.elex-tech.com
+*.assets.elex-tech.com
+*.static.elex-tech.com
+*.clashofkings.elex-tech.com
+*.magicrush.elex-tech.com
+*.totalwar.elex-tech.com
+*.ageofwarringempire.elex-tech.com
+*.patch.elex-tech.com

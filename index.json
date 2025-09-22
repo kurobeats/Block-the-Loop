@@ -173,5 +173,58 @@
       "Top War: Battle Game"
     ],
     "file": "publishers/rivergame/blocklist.txt"
+  },
+  "onemt": {
+    "covers": [
+      "Revenge of Sultans",
+      "King\u2019s Choice",
+      "Royal Revolt",
+      "War of Destiny"
+    ],
+    "file": "publishers/onemt/blocklist.txt"
+  },
+  "elex-wireless": {
+    "covers": [
+      "Clash of Kings",
+      "Magic Rush: Heroes",
+      "Total War: Empire",
+      "Age of Warring Empire"
+    ],
+    "file": "publishers/elex-wireless/blocklist.txt"
+  },
+  "skyrise-digital": {
+    "covers": [
+      "Game of Vampires",
+      "Game of Warriors",
+      "Game of Khans"
+    ],
+    "file": "publishers/skyrise-digital/blocklist.txt"
+  },
+  "tap4fun": {
+    "covers": [
+      "Invasion",
+      "Brutal Age",
+      "Sea Fortress",
+      "Galaxy Legend"
+    ],
+    "file": "publishers/tap4fun/blocklist.txt"
+  },
+  "plarium": {
+    "covers": [
+      "Raid: Shadow Legends",
+      "Vikings: War of Clans",
+      "Mech Arena",
+      "Throne: Kingdom at War"
+    ],
+    "file": "publishers/plarium/blocklist.txt"
+  },
+  "yotta-games": {
+    "covers": [
+      "Mafia City",
+      "The Grand Mafia",
+      "Chief Almighty",
+      "Elite Mafia"
+    ],
+    "file": "publishers/yotta-games/blocklist.txt"
   }
 }
