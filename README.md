@@ -2,9 +2,9 @@
 
 **Block the Loop** is a project born from frustration, love and deep saddness.
 
-Mobile games are engineered to trap players in psychological loops — reward cycles, time-gated upgrades, alliance pressure, and endless microtransactions. These loops are designed to be compulsive, monetized, and hard to escape.
+Mobile games are engineered to trap players in psychological loops - reward cycles, time-gated upgrades, alliance pressure, and endless microtransactions. These loops are designed to be compulsive, monetized, and hard to escape.
 
-This repository exists to help you — or someone you care about — break that loop.
+This repository exists to help you - or someone you care about - break that loop.
 
 ## 🎯 Purpose
 
@@ -14,7 +14,7 @@ But let’s be clear: **blocking is not healing**.
 
 ## 🧩 One Piece of the Puzzle
 
-This repo is a tool — not a cure.
+This repo is a tool - not a cure.
 
 If you or someone close to you is struggling with mobile game addiction, please consider:
 - Talking to a mental health professional
@@ -26,11 +26,15 @@ Technical intervention can interrupt harmful patterns. But healing takes time, s
 
 ## 🧱 Structure
 
-- `publishers/` — Organized by game publisher (e.g. Lilith Games, FunPlus, King)
+- `publishers/` - Organized by game publisher (e.g. Lilith Games, FunPlus, King)
 - Each folder contains:
-  - `blocklist.txt` — Wildcard domains for Pi-hole, NextDNS, etc.
-  - `README.md` — Game coverage, scope, and usage notes
+  - `blocklist.txt` - Wildcard domains for Pi-hole, NextDNS, etc.
+  - `README.md` - Game coverage, scope, and usage notes
 
 ## ⚠️ Disclaimer
 
 This repo does not block ads, trackers, or third-party integrations. It focuses strictly on game infrastructure. Blocking may break login, updates, or gameplay. Use with care and test per title.
+
+## Contributing
+
+Pull requests are MOST welcome!
