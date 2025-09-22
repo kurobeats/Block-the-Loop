@@ -1,0 +1,10 @@
+# Deus Craft - Game Infrastructure Domains
+# Covers: Grand Hotel Mania
+
+*.deuscraft.com
+*.cdn.deuscraft.com
+*.api.deuscraft.com
+*.assets.deuscraft.com
+*.static.deuscraft.com
+*.grandhotelmania.deuscraft.com
+*.patch.deuscraft.com

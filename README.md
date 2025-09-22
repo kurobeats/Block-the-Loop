@@ -26,11 +26,11 @@ Technical intervention can interrupt harmful patterns. But healing takes time, s
 
 ## 📝 Statistics
 
-Publishers: 26
+Publishers: 34
 
-Games Covered: 92
+Games Covered: 110
 
-Domains Blocked (by wildcard): 233
+Domains Blocked (by wildcard): 335
 
 ## 🧱 Structure
 

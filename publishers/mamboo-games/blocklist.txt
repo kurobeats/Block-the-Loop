@@ -1,0 +1,19 @@
+# Mamboo Games - Game Infrastructure Domains
+# Covers: Shift Race, Flex Run, Oh God!, Idle Police Tycoon
+
+*.mamboogames.com
+*.cdn.mamboogames.com
+*.api.mamboogames.com
+*.assets.mamboogames.com
+*.static.mamboogames.com
+*.patch.mamboogames.com
+*.shift.mamboogames.com
+*.flexrun.mamboogames.com
+*.ohgod.mamboogames.com
+*.idlepolice.mamboogames.com
+
+*.my.games
+*.api.my.games
+*.cdn.my.games
+*.auth.my.games
+*.payment.my.games

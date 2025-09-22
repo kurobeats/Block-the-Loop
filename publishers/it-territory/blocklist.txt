@@ -1,0 +1,19 @@
+# IT Territory - Game Infrastructure Domains
+# Covers: Evolution 2, Juggernaut Wars, Gods & Glory
+
+*.itterritory.ru
+*.cdn.itterritory.ru
+*.api.itterritory.ru
+*.assets.itterritory.ru
+*.static.itterritory.ru
+*.evolution2.itterritory.ru
+*.juggernautwars.itterritory.ru
+*.godsglory.itterritory.ru
+*.patch.itterritory.ru
+
+*.my.games
+*.api.my.games
+*.cdn.my.games
+*.auth.my.games
+*.evolution2.my.games
+*.juggernautwars.my.games

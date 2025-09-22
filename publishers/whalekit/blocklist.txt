@@ -1,0 +1,19 @@
+# Whalekit - Game Infrastructure Domains
+# Covers: Left to Survive, Zombie Frontier, Warface: Global Operations
+
+*.whalekit.com
+*.cdn.whalekit.com
+*.api.whalekit.com
+*.assets.whalekit.com
+*.static.whalekit.com
+*.lefttosurvive.whalekit.com
+*.zombiefrontier.whalekit.com
+*.warface.whalekit.com
+*.patch.whalekit.com
+
+*.my.games
+*.api.my.games
+*.cdn.my.games
+*.auth.my.games
+*.lefttosurvive.my.games
+*.payment.my.games

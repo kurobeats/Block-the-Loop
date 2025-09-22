@@ -1,0 +1,17 @@
+# SWAG MASHA - Game Infrastructure Domains
+# Covers: Love Sick: Interactive Stories
+
+*.swagmasha.com
+*.cdn.swagmasha.com
+*.api.swagmasha.com
+*.assets.swagmasha.com
+*.static.swagmasha.com
+*.lovesick.swagmasha.com
+*.patch.swagmasha.com
+
+*.my.games
+*.cdn.my.games
+*.api.my.games
+*.auth.my.games
+*.lovesick.my.games
+*.payment.my.games

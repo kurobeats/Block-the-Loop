@@ -1,0 +1,18 @@
+# Pixonic / MY.GAMES - Game Infrastructure Domains
+# Covers: War Robots, Dino Squad, War Robots: Frontiers
+
+*.pixonic.com
+*.cdn.pixonic.com
+*.api.pixonic.com
+*.assets.pixonic.com
+*.static.pixonic.com
+*.warrobots.pixonic.com
+*.dinosquad.pixonic.com
+*.frontiers.pixonic.com
+*.patch.pixonic.com
+
+*.my.games
+*.cdn.my.games
+*.api.my.games
+*.warrobots.my.games
+*.auth.my.games

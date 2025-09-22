@@ -226,5 +226,66 @@
       "Elite Mafia"
     ],
     "file": "publishers/yotta-games/blocklist.txt"
+  },
+  "pixonic": {
+    "covers": [
+      "War Robots",
+      "Dino Squad",
+      "War Robots: Frontiers"
+    ],
+    "file": "publishers/pixonic/blocklist.txt"
+  },
+  "beingame": {
+    "covers": [
+      "Hustle Castle",
+      "Zero City",
+      "American Dad! Apocalypse Soon"
+    ],
+    "file": "publishers/beingame/blocklist.txt"
+  },
+  "deuscraft": {
+    "covers": [
+      "Grand Hotel Mania"
+    ],
+    "file": "publishers/deuscraft/blocklist.txt"
+  },
+  "mygames": {
+    "covers": [
+      "Account systems",
+      "monetization APIs",
+      "cloud progression"
+    ],
+    "file": "publishers/mygames/blocklist.txt"
+  },
+  "it-territory": {
+    "covers": [
+      "Evolution 2",
+      "Juggernaut Wars",
+      "Gods & Glory"
+    ],
+    "file": "publishers/it-territory/blocklist.txt"
+  },
+  "swag-masha": {
+    "covers": [
+      "Love Sick: Interactive Stories"
+    ],
+    "file": "publishers/swag-masha/blocklist.txt"
+  },
+  "whalekit": {
+    "covers": [
+      "Left to Survive",
+      "Zombie Frontier",
+      "Warface: Global Operations"
+    ],
+    "file": "publishers/whalekit/blocklist.txt"
+  },
+  "mamboo-games": {
+    "covers": [
+      "Shift Race",
+      "Flex Run",
+      "Oh God!",
+      "Idle Police Tycoon"
+    ],
+    "file": "publishers/mamboo-games/blocklist.txt"
   }
 }

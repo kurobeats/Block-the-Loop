@@ -1,0 +1,17 @@
+# MY.GAMES - Shared Infrastructure Domains
+# Covers: Account systems, monetization APIs, cloud progression
+
+*.my.games
+*.api.my.games
+*.cdn.my.games
+*.auth.my.games
+*.assets.my.games
+*.static.my.games
+*.patch.my.games
+*.payment.my.games
+*.profile.my.games
+*.events.my.games
+*.warrobots.my.games
+*.hustlecastle.my.games
+*.grandhotelmania.my.games
+*.lovesick.my.games

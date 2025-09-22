@@ -1,0 +1,12 @@
+# BeIngame - Game Infrastructure Domains
+# Covers: Hustle Castle, Zero City, American Dad! Apocalypse Soon
+
+*.beingame.com
+*.cdn.beingame.com
+*.api.beingame.com
+*.assets.beingame.com
+*.static.beingame.com
+*.hustlecastle.beingame.com
+*.zerocity.beingame.com
+*.americandad.beingame.com
+*.patch.beingame.com
