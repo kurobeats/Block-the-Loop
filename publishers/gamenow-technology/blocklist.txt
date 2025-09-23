@@ -1,0 +1,10 @@
+# GAMENOW TECHNOLOGY - Game Infrastructure Domains
+# Covers: King's Throne: Game of Lust
+
+*.gamenow.com
+*.cdn.gamenow.com
+*.api.gamenow.com
+*.assets.gamenow.com
+*.static.gamenow.com
+*.kingsthrone.gamenow.com
+*.patch.gamenow.com

@@ -1,0 +1,18 @@
+# GAMATCH / DianDian Interactive - Game Infrastructure Domains
+# Covers: Game of Thrones: Winter is Coming
+
+*.dianjoy.com
+*.cdn.dianjoy.com
+*.api.dianjoy.com
+*.assets.dianjoy.com
+*.static.dianjoy.com
+*.got.dianjoy.com
+*.patch.dianjoy.com
+
+*.gamatch.com
+*.cdn.gamatch.com
+*.api.gamatch.com
+*.assets.gamatch.com
+*.static.gamatch.com
+*.got.gamatch.com
+*.patch.gamatch.com

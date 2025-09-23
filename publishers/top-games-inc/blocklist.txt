@@ -1,0 +1,10 @@
+# TOP GAMES INC. - Game Infrastructure Domains
+# Covers: Evony: The King's Return
+
+*.topgamesinc.com
+*.cdn.topgamesinc.com
+*.api.topgamesinc.com
+*.assets.topgamesinc.com
+*.static.topgamesinc.com
+*.evony.topgamesinc.com
+*.patch.topgamesinc.com

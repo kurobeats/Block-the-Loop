@@ -1,0 +1,11 @@
+# Triniti Interactive - Game Infrastructure Domains
+# Covers: Call of Mini series, Dino Hunter, Mini Warriors
+
+*.trinitigame.com
+*.cdn.trinitigame.com
+*.api.trinitigame.com
+*.assets.trinitigame.com
+*.static.trinitigame.com
+*.callofmini.trinitigame.com
+*.miniwars.trinitigame.com
+*.patch.trinitigame.com

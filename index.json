@@ -287,5 +287,67 @@
       "Idle Police Tycoon"
     ],
     "file": "publishers/mamboo-games/blocklist.txt"
+  },
+  "warmest-good-limited": {
+    "covers": [
+      "The Grand Mafia 2",
+      "Mafia Empire"
+    ],
+    "file": "publishers/warmest-good-limited/blocklist.txt"
+  },
+  "starfortune": {
+    "covers": [
+      "Nova Empire",
+      "Galaxy Battles"
+    ],
+    "file": "publishers/starfortune/blocklist.txt"
+  },
+  "long-tech-network": {
+    "covers": [
+      "Last Empire \u2013 War Z"
+    ],
+    "file": "publishers/long-tech-network/blocklist.txt"
+  },
+  "efun-eyougame": {
+    "covers": [
+      "Immortal Taoists",
+      "Celestial Fate",
+      "Idle Cultivation",
+      "Realm of Chaos"
+    ],
+    "file": "publishers/efun-eyougame/blocklist.txt"
+  },
+  "gamatch-dian": {
+    "covers": [
+      "Game of Thrones: Winter is Coming"
+    ],
+    "file": "publishers/gamatch-dian/blocklist.txt"
+  },
+  "triniti-interactive": {
+    "covers": [
+      "Call of Mini series",
+      "Dino Hunter",
+      "Mini Warriors"
+    ],
+    "file": "publishers/triniti-interactive/blocklist.txt"
+  },
+  "gamenow-technology": {
+    "covers": [
+      "King's Throne: Game of Lust"
+    ],
+    "file": "publishers/gamenow-technology/blocklist.txt"
+  },
+  "top-games-inc": {
+    "covers": [
+      "Evony: The King's Return"
+    ],
+    "file": "publishers/top-games-inc/blocklist.txt"
+  },
+  "im30-leyi": {
+    "covers": [
+      "Last Shelter: Survival",
+      "Rise of Empires: Ice and Fire"
+    ],
+    "file": "publishers/im30-leyi/blocklist.txt"
   }
 }

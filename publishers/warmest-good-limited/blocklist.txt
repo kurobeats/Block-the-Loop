@@ -1,0 +1,18 @@
+# WARMEST GOOD LIMITED - Game Infrastructure Domains
+# Covers: The Grand Mafia 2, Mafia Empire
+
+*.warmestgood.com
+*.cdn.warmestgood.com
+*.api.warmestgood.com
+*.assets.warmestgood.com
+*.static.warmestgood.com
+*.grandmafia2.warmestgood.com
+*.mafiaempire.warmestgood.com
+*.patch.warmestgood.com
+
+*.my.games
+*.api.my.games
+*.cdn.my.games
+*.auth.my.games
+*.payment.my.games
+*.grandmafia2.my.games

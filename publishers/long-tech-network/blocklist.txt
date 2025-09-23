@@ -1,0 +1,17 @@
+# Long Tech Network - Game Infrastructure Domains
+# Covers: Last Empire – War Z
+
+*.longtechnetwork.com
+*.cdn.longtechnetwork.com
+*.api.longtechnetwork.com
+*.assets.longtechnetwork.com
+*.static.longtechnetwork.com
+*.lastempire.longtechnetwork.com
+*.patch.longtechnetwork.com
+
+*.my.games
+*.api.my.games
+*.cdn.my.games
+*.auth.my.games
+*.payment.my.games
+*.lastempire.my.games

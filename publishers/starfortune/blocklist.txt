@@ -1,0 +1,18 @@
+# StarFortune - Game Infrastructure Domains
+# Covers: Nova Empire, Galaxy Battles
+
+*.starfortune.com
+*.cdn.starfortune.com
+*.api.starfortune.com
+*.assets.starfortune.com
+*.static.starfortune.com
+*.novaempire.starfortune.com
+*.galaxybattles.starfortune.com
+*.patch.starfortune.com
+
+*.my.games
+*.api.my.games
+*.cdn.my.games
+*.auth.my.games
+*.payment.my.games
+*.novaempire.my.games

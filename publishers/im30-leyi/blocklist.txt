@@ -1,0 +1,19 @@
+# IM30 / Leyi Games - Game Infrastructure Domains
+# Covers: Last Shelter: Survival, Rise of Empires: Ice and Fire
+
+*.im30.net
+*.cdn.im30.net
+*.api.im30.net
+*.assets.im30.net
+*.static.im30.net
+*.lastshelter.im30.net
+*.riseofempires.im30.net
+*.patch.im30.net
+
+*.leyi.cc
+*.cdn.leyi.cc
+*.api.leyi.cc
+*.assets.leyi.cc
+*.static.leyi.cc
+*.riseofempires.leyi.cc
+*.patch.leyi.cc

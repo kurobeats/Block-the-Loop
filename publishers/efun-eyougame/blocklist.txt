@@ -1,0 +1,22 @@
+# Efun / Eyougame - Game Infrastructure Domains
+# Covers: Immortal Taoists, Celestial Fate, Idle Cultivation, Realm of Chaos
+
+*.efun.com
+*.cdn.efun.com
+*.api.efun.com
+*.assets.efun.com
+*.static.efun.com
+*.patch.efun.com
+*.immortaltaoists.efun.com
+*.celestialfate.efun.com
+*.realmofchaos.efun.com
+
+*.eyougame.com
+*.cdn.eyougame.com
+*.api.eyougame.com
+*.assets.eyougame.com
+*.static.eyougame.com
+*.patch.eyougame.com
+*.immortaltaoists.eyougame.com
+*.celestialfate.eyougame.com
+*.realmofchaos.eyougame.com
