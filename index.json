@@ -349,5 +349,42 @@
       "Rise of Empires: Ice and Fire"
     ],
     "file": "publishers/im30-leyi/blocklist.txt"
+  },
+  "bozzy-games": {
+    "covers": [
+      "Mafia Sniper",
+      "Crime City: Mafia Wars"
+    ],
+    "file": "publishers/bozzy-games/blocklist.txt"
+  },
+  "topwarstudio": {
+    "covers": [
+      "Top War: Battle Game"
+    ],
+    "file": "publishers/topwarstudio/blocklist.txt"
+  },
+  "gamecafe": {
+    "covers": [
+      "Merge Tactics"
+    ],
+    "file": "publishers/gamecafe/blocklist.txt"
+  },
+  "jiangyin-entertainment": {
+    "covers": [
+      "Hero Summoner"
+    ],
+    "file": "publishers/jiangyin-entertainment/blocklist.txt"
+  },
+  "lexiang-interactive": {
+    "covers": [
+      "West Game"
+    ],
+    "file": "publishers/lexiang-interactive/blocklist.txt"
+  },
+  "kingsgroup-holdings": {
+    "covers": [
+      "Z Day: Hearts of Heroes"
+    ],
+    "file": "publishers/kingsgroup-holdings/blocklist.txt"
   }
 }

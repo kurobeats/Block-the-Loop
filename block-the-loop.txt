@@ -572,3 +572,64 @@
 *.riseofempires.leyi.cc
 *.patch.leyi.cc
 
+# Bozzy Games - Game Infrastructure Domains
+# Covers: Mafia Sniper, Crime City: Mafia Wars
+*.bozzy.games
+*.cdn.bozzy.games
+*.api.bozzy.games
+*.assets.bozzy.games
+*.static.bozzy.games
+*.mafiasniper.bozzy.games
+*.crimecity.bozzy.games
+*.patch.bozzy.games
+
+# Topwar Studio - Game Infrastructure Domains
+# Covers: Top War: Battle Game
+*.topwarstudio.com
+*.cdn.topwarstudio.com
+*.api.topwarstudio.com
+*.assets.topwarstudio.com
+*.static.topwarstudio.com
+*.topwar.topwarstudio.com
+*.patch.topwarstudio.com
+
+# Gamecafe Interactive - Game Infrastructure Domains
+# Covers: Merge Tactics
+*.gamecafe.com
+*.cdn.gamecafe.com
+*.api.gamecafe.com
+*.assets.gamecafe.com
+*.static.gamecafe.com
+*.mergetactics.gamecafe.com
+*.patch.gamecafe.com
+
+# Jiangyin Entertainment - Game Infrastructure Domains
+# Covers: Hero Summoner
+*.jiangyin.com
+*.cdn.jiangyin.com
+*.api.jiangyin.com
+*.assets.jiangyin.com
+*.static.jiangyin.com
+*.herosummoner.jiangyin.com
+*.patch.jiangyin.com
+
+# Lexiang Interactive - Game Infrastructure Domains
+# Covers: West Game
+*.lexiang.com
+*.cdn.lexiang.com
+*.api.lexiang.com
+*.assets.lexiang.com
+*.static.lexiang.com
+*.westgame.lexiang.com
+*.patch.lexiang.com
+
+# KingsGroup Holdings - Game Infrastructure Domains
+# Covers: Z Day: Hearts of Heroes
+*.kingsgroupgames.com
+*.cdn.kingsgroupgames.com
+*.api.kingsgroupgames.com
+*.assets.kingsgroupgames.com
+*.static.kingsgroupgames.com
+*.zday.kingsgroupgames.com
+*.patch.kingsgroupgames.com
+
