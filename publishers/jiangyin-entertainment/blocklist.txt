@@ -1,0 +1,10 @@
+# Jiangyin Entertainment - Game Infrastructure Domains
+# Covers: Hero Summoner
+
+*.jiangyin.com
+*.cdn.jiangyin.com
+*.api.jiangyin.com
+*.assets.jiangyin.com
+*.static.jiangyin.com
+*.herosummoner.jiangyin.com
+*.patch.jiangyin.com

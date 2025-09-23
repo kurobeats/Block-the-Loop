@@ -1,0 +1,10 @@
+# Gamecafe Interactive - Game Infrastructure Domains
+# Covers: Merge Tactics
+
+*.gamecafe.com
+*.cdn.gamecafe.com
+*.api.gamecafe.com
+*.assets.gamecafe.com
+*.static.gamecafe.com
+*.mergetactics.gamecafe.com
+*.patch.gamecafe.com

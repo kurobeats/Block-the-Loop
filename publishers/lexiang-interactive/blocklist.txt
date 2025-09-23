@@ -1,0 +1,10 @@
+# Lexiang Interactive - Game Infrastructure Domains
+# Covers: West Game
+
+*.lexiang.com
+*.cdn.lexiang.com
+*.api.lexiang.com
+*.assets.lexiang.com
+*.static.lexiang.com
+*.westgame.lexiang.com
+*.patch.lexiang.com

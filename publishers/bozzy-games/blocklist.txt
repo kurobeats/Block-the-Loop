@@ -1,0 +1,11 @@
+# Bozzy Games - Game Infrastructure Domains
+# Covers: Mafia Sniper, Crime City: Mafia Wars
+
+*.bozzy.games
+*.cdn.bozzy.games
+*.api.bozzy.games
+*.assets.bozzy.games
+*.static.bozzy.games
+*.mafiasniper.bozzy.games
+*.crimecity.bozzy.games
+*.patch.bozzy.games

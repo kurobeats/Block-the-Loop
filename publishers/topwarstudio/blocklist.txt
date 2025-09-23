@@ -1,0 +1,10 @@
+# Topwar Studio - Game Infrastructure Domains
+# Covers: Top War: Battle Game
+
+*.topwarstudio.com
+*.cdn.topwarstudio.com
+*.api.topwarstudio.com
+*.assets.topwarstudio.com
+*.static.topwarstudio.com
+*.topwar.topwarstudio.com
+*.patch.topwarstudio.com

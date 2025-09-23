@@ -1,0 +1,10 @@
+# KingsGroup Holdings - Game Infrastructure Domains
+# Covers: Z Day: Hearts of Heroes
+
+*.kingsgroupgames.com
+*.cdn.kingsgroupgames.com
+*.api.kingsgroupgames.com
+*.assets.kingsgroupgames.com
+*.static.kingsgroupgames.com
+*.zday.kingsgroupgames.com
+*.patch.kingsgroupgames.com
