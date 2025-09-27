@@ -43,6 +43,8 @@ Domains Blocked (by wildcard): 488
 
 This repo does not block ads, trackers, or third-party integrations. It focuses strictly on game infrastructure. Blocking may break login, updates, or gameplay. Use with care and test per title.
 
+This is NOT an exhaustive list of predatory games, you can find that over at [Dark Pattern Games](https://www.darkpattern.games/).
+
 ## ⚙️ Contributing
 
 Pull requests are MOST welcome!
