@@ -36,8 +36,34 @@ Domains Blocked (by wildcard): 488
 
 - `publishers/` - Organized by game publisher (e.g. Lilith Games, FunPlus, King)
 - Each folder contains:
-  - `blocklist.txt` - Wildcard domains for Pi-hole, NextDNS, etc.
+  - `blocklist.txt` - Domain rules in adblocker format (`||domain.com^`)
   - `README.md` - Game coverage, scope, and usage notes
+- `block-the-loop.txt` - Combined blocklist for all publishers
+
+## 🔧 Usage
+
+This blocklist uses standard adblocker syntax (`||domain.com^`) which is compatible with:
+
+| Tool | Compatibility | Instructions |
+|------|--------------|--------------|
+| **uBlock Origin** | ✅ Full | Add to "My filters" in dashboard |
+| **AdGuard** | ✅ Full | Add as custom filter list |
+| **AdBlock Plus** | ✅ Full | Add as custom filter list |
+| **Pi-hole** | ✅ Full | Add URL to blocklist |
+| **NextDNS** | ✅ Full | Add to denylist |
+
+### Quick Setup
+
+**For browser adblockers (uBlock Origin, AdGuard, AdBlock Plus):**
+```
+https://raw.githubusercontent.com/YOUR_USERNAME/Block-the-Loop/main/block-the-loop.txt
+```
+
+**For Pi-hole:**
+Add the URL above to your Pi-hole's blocklist.
+
+**For NextDNS:**
+Add the URL to your denylist configuration.
 
 ## ⚠️ Disclaimer
 
